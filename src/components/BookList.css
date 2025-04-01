@@ -1,0 +1,13 @@
+.book-grid {
+  display: grid;
+  grid-template-columns: auto;
+  gap: 2px;
+  padding: 2px;
+  justify-content: center;
+}
+
+.search-bar {
+  padding: 5px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
